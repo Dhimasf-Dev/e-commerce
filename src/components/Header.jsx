@@ -76,7 +76,7 @@ class Header extends Component {
             return (
                 <div>
                     <Navbar color="light" light expand="md">
-                        <NavbarBrand tag={Link} to="/">reactstrap</NavbarBrand>
+                        <NavbarBrand tag={Link} to="/">Phone Store@</NavbarBrand>
                         <NavbarToggler onClick={this.toggle} />
                         <Collapse isOpen={this.state.isOpen} navbar>
                             

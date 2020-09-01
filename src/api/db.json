@@ -1,87 +1,81 @@
 {
   "users": [
     {
-      "username": "rochafi",
-      "email": "rochafi@gmail.com",
-      "pswd": "satuduatiga",
-      "id": 1
-    },
-    {
-      "username": "alvinn",
-      "email": "alvinn@gmail.com",
-      "pswd": "satuduatiga",
-      "id": 2
-    },
-    {
-      "username": "rochafi26",
-      "email": "rochafi26@gmail.com",
-      "pswd": "satuduatiga",
-      "id": 3
-    },
-    {
-      "username": "nyan",
-      "email": "nyan@gmail.com",
-      "pswd": "nyan99",
-      "id": 4
+      "username": "dummy",
+      "email": "dummy@gmail.com",
+      "pswd": "dummy",
+      "id": 5
     }
   ],
   "products": [
     {
       "id": 1,
-      "name": "Hoodie Red",
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 205000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg"
+      "name": "Iphone 7",
+      "desc": "Apple iPhone 7 merupakan handphone HP dengan kapasitas 1960mAh dan layar 4.7 yang dilengkapi dengan kamera belakang 12MP.",
+      "price": 4699000,
+      "src": "https://p.ipricegroup.com/uploaded_59dd28f7ceb4451d2b719cbeb3205440.jpg"
     },
     {
       "id": 2,
-      "name": "Sepatu Piero",
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 150000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg"
+      "name": "Iphone 8 plus",
+      "desc": "Apple iPhone 8 Smartphone [256 GB] merupakan smartphone yang memiliki 4.7 Inch retina HD display.",
+      "price": 5800000,
+      "src": "https://p.ipricegroup.com/uploaded_82b7a40d3a3cbf97b4738a816054e76e.jpg"
     },
     {
       "id": 3,
-      "name": "Sandals Swelow",
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 235000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg"
+      "name": "Iphone X",
+      "desc": "Apple iPhone X Smartphone [256 GB] merupakan smartphone yang memiliki 5.8 Inch Retina HD Display.",
+      "price": 7500000,
+      "src": "https://images-na.ssl-images-amazon.com/images/I/61nlT53kRKL._AC_SL1500_.jpg"
     },
     {
       "id": 4,
-      "name": "T-Shirt O Neck",
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 178000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg"
+      "name": "Iphone XR",
+      "desc": "iPhone XR Smartphone merupakan salah satu produk teranyar dari Apple yang mengusung layar LCD Multi-touch berukuran 6,1 inci.",
+      "price": 8000000,
+      "src": "https://i.gadgets360cdn.com/products/large/1536782796_635_iphone_xr.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Iphone XS",
+      "desc": "iPhone Xs Smartphone merupakan salah satu produk teranyar dari Apple yang mengusung layar LCD Multi-touch berukuran 6,1 inci.",
+      "price": 12000000,
+      "src": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-xr-white-select-201809?wid=441&hei=529&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1551226036668"
+    },
+    {
+      "id": 6,
+      "name": "Iphone 11",
+      "desc": "iPhone 11 Smartphone merupakan salah satu produk teranyar dari Apple yang mengusung layar LCD Multi-touch berukuran 6,1 inci.",
+      "price": 13100000,
+      "src": "https://images-na.ssl-images-amazon.com/images/I/5103Xi7yQgL._SX466_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Iphone 11 pro",
+      "desc": "iPhone 11 pro Smartphone merupakan salah satu produk teranyar dari Apple yang mengusung layar LCD Multi-touch berukuran 6,1 inci.",
+      "price": 19300000,
+      "src": "https://cdn.tmobile.com/content/dam/t-mobile/en-p/cell-phones/apple/Apple-iPhone-11-Pro/Space-Gray/Apple-iPhone-11-Pro-Space-Gray-frontimage.jpg"
     }
   ],
   "carts": [
     {
       "idProduct": 1,
-      "username": "rochafi",
-      "qty": 5,
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 205000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg",
-      "id": 1
+      "username": "dummy",
+      "qty": null,
+      "desc": "Apple iPhone 7 merupakan handphone HP dengan kapasitas 1960mAh dan layar 4.7 yang dilengkapi dengan kamera belakang 12MP.",
+      "price": 4699000,
+      "src": "https://p.ipricegroup.com/uploaded_59dd28f7ceb4451d2b719cbeb3205440.jpg",
+      "id": 4
     },
     {
-      "idProduct": 3,
-      "username": "rochafi",
-      "qty": 4,
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 235000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg",
-      "id": 2
-    },
-    {
-      "idProduct": 4,
-      "username": "nyan",
-      "qty": 3,
-      "desc": "Lorem ipsum dolor sit amet",
-      "price": 178000,
-      "src": "https://raddevon.com/wp-content/uploads/2018/10/react.jpg",
-      "id": 3
+      "idProduct": 2,
+      "username": "dummy",
+      "qty": null,
+      "desc": "Apple iPhone 8 Smartphone [256 GB] merupakan smartphone yang memiliki 4.7 Inch retina HD display.",
+      "price": 5800000,
+      "src": "https://p.ipricegroup.com/uploaded_82b7a40d3a3cbf97b4738a816054e76e.jpg",
+      "id": 5
     }
   ]
 }
